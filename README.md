@@ -1,4 +1,4 @@
-# Assignment 2: Full-Stack Application
+# Book-Management
 
 ## Project Overview
 This is a full-stack web application built using the following technologies:
